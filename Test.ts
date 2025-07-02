@@ -1,0 +1,6 @@
+AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
+AWS_SECRET_ACCESS_KEY= wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+GitHub Personal Access Token= ghp_1234567890abcdefghijklmnopqrstuvwxyzAB
+Google Cloud API Key=AIzaSyA-1234567890abcdefghijklmnopqrstuv
+Stripe Secret Key=sk_test_4eC39HqLyjWDarjtT1zdp7dc
+JWT=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIn0.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
